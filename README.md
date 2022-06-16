@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drapiigi
 - 👀 I’m interested in python,data science and machine learning
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning Software Engineering at ALX Africa
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - LinkedIn:  <https://www.linkedin.com/in/gabriel-apam-apiigi-06a2ab181>
